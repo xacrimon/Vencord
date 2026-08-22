@@ -1,0 +1,3 @@
+[submodule "src/userplugins/vencord-activity-tracker"]
+	path = src/userplugins/vencord-activity-tracker
+	url = git@github.com:Ondra-D/vencord-activity-tracker.git
