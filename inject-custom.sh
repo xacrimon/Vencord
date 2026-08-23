@@ -1,0 +1,1 @@
+mac node scripts/runInstaller.mjs -- --install
