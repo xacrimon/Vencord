@@ -1,1 +1,1 @@
-mac node scripts/runInstaller.mjs -- --install
+mac node scripts/runInstallerCustom.mjs -- --install
